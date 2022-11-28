@@ -1,0 +1,54 @@
+::ng-deep body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    text-decoration: none;
+    background-color:#24292f;
+    color: white;
+    padding: 0 1em;
+  }
+  .xyz{
+    display: flex;
+    padding: 0 1em;
+    align-items: center;
+  }
+  ul{
+    display: flex;
+    gap: 8px;
+  }
+  li{
+    list-style: none;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .search{
+    float:right;
+    margin:7px;
+    background: transparent;
+    border-radius: 2px;
+    padding-top: 9px;
+    display: flex;
+    flex-direction: row;
+    height: 55%;
+    margin-bottom: 7%;
+    box-shadow: none;
+  }
+  .abc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 1em;
+    margin-left: -5%;
+  }
+  .bell{
+    padding-top: 8px;
+    float: right;
+  
+  }
+
+  

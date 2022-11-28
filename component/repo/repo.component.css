@@ -1,0 +1,68 @@
+
+
+  input {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 30%;
+  }
+  form {
+    border-bottom: 0.5px solid #d2d3d5;
+  }
+  text {
+    font-size: 14px;
+    margin: 2%;
+  }
+  .repositories {
+    /* border: 0.5px solid #d2d3d5; */
+    border-radius: 6px;
+    font-size: 45px;
+    margin-bottom: 3%;
+    height: 100%;
+    margin-left: -14%;
+    
+    
+  }
+  .visibility {
+    border: 0.5px solid #d2d3d5;
+    border-radius: 15px;
+    margin-left: 320px;
+    background: transparent;
+    font-size: 14px;
+    color: #57606a;
+  }
+  a {
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .upper-tag {
+    height: 30px;
+    font-size: 15px;
+  }
+  .repo1 {
+    justify-content: space-evenly;
+    width: 400px;
+    height: 63px;
+    border: 1px solid #24292f;
+    border-radius: 5px;
+    
+
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    /* grid-auto-rows: minmax(100px, auto); */
+  }
+  .pagination {
+    justify-content: center;
+  }
+
+  
+  .upper-tag {
+  display: flex;
+  gap: 600px;
+  margin-top:3%;
+  }
+  .repo{
+    margin-left: 4%;
+  }

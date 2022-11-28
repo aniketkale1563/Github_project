@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    gap: 30px;
+}
+li{
+    list-style: none;
+  }
+.ABC{
+    display: flex;
+}
+.blank{
+    width: 30%;
+}
